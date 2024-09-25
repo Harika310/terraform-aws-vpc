@@ -1,4 +1,4 @@
-# Terraform AWS VPC Module Customised
+# Terraform AWS VPC Module Customized
 
 This module is going to create the following resources. for High Aavilability we are going to get first 2 Available Zones.
 
